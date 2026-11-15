@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "redstoneengineering:block/duper_side",
+    "down": "redstoneengineering:block/duper_side",
+    "up": "redstoneengineering:block/duper_top",
+    "north": "redstoneengineering:block/duper_front",
+    "south": "redstoneengineering:block/duper_side",
+    "west": "redstoneengineering:block/duper_side",
+    "east": "redstoneengineering:block/duper_side"
+  }
+}

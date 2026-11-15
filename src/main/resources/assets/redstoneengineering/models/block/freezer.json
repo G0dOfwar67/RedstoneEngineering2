@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "redstoneengineering:block/freezer_side",
+    "down": "redstoneengineering:block/freezer_side",
+    "up": "redstoneengineering:block/freezer_top",
+    "north": "redstoneengineering:block/freezer_front",
+    "south": "redstoneengineering:block/freezer_side",
+    "west": "redstoneengineering:block/freezer_side",
+    "east": "redstoneengineering:block/freezer_side"
+  }
+}

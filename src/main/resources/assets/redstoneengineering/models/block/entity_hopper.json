@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "redstoneengineering:block/entity_hopper_side",
+    "down": "redstoneengineering:block/entity_hopper_side",
+    "up": "redstoneengineering:block/entity_hopper_top",
+    "north": "redstoneengineering:block/entity_hopper_front",
+    "south": "redstoneengineering:block/entity_hopper_side",
+    "west": "redstoneengineering:block/entity_hopper_side",
+    "east": "redstoneengineering:block/entity_hopper_side"
+  }
+}

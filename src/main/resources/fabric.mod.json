@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "redstoneengineering",
+  "version": "${version}",
+  "name": "Redstone Engineering",
+  "description": "A prototype collection of redstone engineering machines.",
+  "authors": ["Redstone Engineering Team"],
+  "environment": "*",
+  "entrypoints": {
+    "main": ["dev.redstoneengineering.RedstoneEngineering"]
+  },
+  "depends": {
+    "fabricloader": ">=0.20.1",
+    "minecraft": "1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "redstoneengineering:block/deleter_side",
+    "down": "redstoneengineering:block/deleter_side",
+    "up": "redstoneengineering:block/deleter_top",
+    "north": "redstoneengineering:block/deleter_front",
+    "south": "redstoneengineering:block/deleter_side",
+    "west": "redstoneengineering:block/deleter_side",
+    "east": "redstoneengineering:block/deleter_side"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "redstoneengineering:block/compresser_side",
+    "down": "redstoneengineering:block/compresser_side",
+    "up": "redstoneengineering:block/compresser_top",
+    "north": "redstoneengineering:block/compresser_front",
+    "south": "redstoneengineering:block/compresser_side",
+    "west": "redstoneengineering:block/compresser_side",
+    "east": "redstoneengineering:block/compresser_side"
+  }
+}

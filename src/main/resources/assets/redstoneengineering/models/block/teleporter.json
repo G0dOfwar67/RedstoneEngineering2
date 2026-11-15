@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "redstoneengineering:block/teleporter_side",
+    "down": "redstoneengineering:block/teleporter_side",
+    "up": "redstoneengineering:block/teleporter_top",
+    "north": "redstoneengineering:block/teleporter_front",
+    "south": "redstoneengineering:block/teleporter_side",
+    "west": "redstoneengineering:block/teleporter_side",
+    "east": "redstoneengineering:block/teleporter_side"
+  }
+}

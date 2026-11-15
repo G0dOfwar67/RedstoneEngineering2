@@ -1,0 +1,11 @@
+{
+  "block.redstoneengineering.receiver": "Receiver",
+  "block.redstoneengineering.freezer": "Freezer",
+  "block.redstoneengineering.teleporter": "Teleporter",
+  "block.redstoneengineering.duper": "Duper",
+  "block.redstoneengineering.deleter": "Deleter",
+  "block.redstoneengineering.compresser": "Compresser",
+  "block.redstoneengineering.entity_hopper": "Entity Hopper",
+  "item.redstoneengineering.remote": "Remote",
+  "item.redstoneengineering.engineering_goggles": "Engineering Goggles"
+}

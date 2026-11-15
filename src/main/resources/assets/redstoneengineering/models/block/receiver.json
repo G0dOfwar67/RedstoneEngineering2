@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "redstoneengineering:block/receiver_side",
+    "down": "redstoneengineering:block/receiver_side",
+    "up": "redstoneengineering:block/receiver_top",
+    "north": "redstoneengineering:block/receiver_front",
+    "south": "redstoneengineering:block/receiver_side",
+    "west": "redstoneengineering:block/receiver_side",
+    "east": "redstoneengineering:block/receiver_side"
+  }
+}
